@@ -1,0 +1,11 @@
+{
+	"id": "ai-writing-assistant",
+	"name": "AI Writing Assistant",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "AI-powered writing assistant with multi-model support for enhanced note-taking and writing in Obsidian",
+	"author": "reaboyki",
+	"authorUrl": "https://github.com/reaboyki",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+} 
