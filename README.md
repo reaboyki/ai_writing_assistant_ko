@@ -5,6 +5,9 @@
 
 Cursor AI의 탭 기능을 커스터마이징하여 만든 옵시디언 플러그인입니다. 타이핑 중 잠깐 멈추면 AI가 자동으로 문맥을 파악해서 다음에 올 글을 미리 보여줍니다.
 
+영어 버전을 설치하려면 여기로:
+https://github.com/reaboyki/ai_writing_assistant_eng/blob/master/README.md
+
 ## 주요 기능
 
 ### 자동 텍스트 예측
@@ -51,4 +54,4 @@ Cursor AI의 탭 기능을 커스터마이징하여 만든 옵시디언 플러�
 - **처음 만든 플러그인**이라 부족한 점이 많습니다. 개선할 점이나 오류가 있을 경우 말씀해주시면 감사하겠습니다.
 - **추론 모델 응답 속도**: 추론 모델들의 경우 답변이 상당히 느립니다 (약 7초~십몇초). 빠른 답변을 원하시면 최신 모델들 말고 비추론 모델을 사용하는 것을 추천드립니다.
 
-Created by reaboyki
+Created by [reaboyki](https://github.com/reaboyki)
