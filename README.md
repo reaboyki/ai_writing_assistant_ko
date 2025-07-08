@@ -6,7 +6,7 @@
 Cursor AI의 탭 기능을 커스터마이징하여 만든 옵시디언 플러그인입니다. 타이핑 중 잠깐 멈추면 AI가 자동으로 문맥을 파악해서 다음에 올 글을 미리 보여줍니다.
 
 영어 버전을 설치하려면 여기로:
-https://github.com/reaboyki/ai_writing_assistant_eng/blob/master/README.md
+https://github.com/reaboyki/ai_writing_assistant_eng
 
 ## 주요 기능
 
